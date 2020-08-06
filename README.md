@@ -5,4 +5,4 @@ Audio Signal pre-processing is done using the Librosa library in Python to Mel S
 
 A general comparison is made between the performance of several classical machine learning models vs several neural network approaches.
 
-Do look at the Project Presentation DS5220.pptx file for a presentation on the project and its results.
+Do look at the Project Presentation DS5220.pptx file for a presentation and details on the project and its results.
